@@ -9,7 +9,7 @@
 ## 참가 인원
 - [이주현](https://github.com/JuHyun419)
 - [노지환](https://github.com/Ji-Ha)
-- [문지은]()
+- [문지은](https://github.com/s2moon98)
 - [한지희]()
 - [정세희]()
 
@@ -21,22 +21,21 @@
 
 | 발표자 | 발표자료 |
 |------|--------|
-| xxx  | xxx    |
-| xxx  | xxx    |
+| 노지환  | [링크](https://github.com/YAPP-19th/Clean-Code-Study/blob/main/1%EC%9E%A5/1%EC%9E%A5_%EA%B9%A8%EB%81%97%ED%95%9C%20%EC%BD%94%EB%93%9C_%EB%85%B8%EC%A7%80%ED%99%98.pdf)    |
+| 문지은  | [링크](https://github.com/YAPP-19th/Clean-Code-Study/blob/main/1%EC%9E%A5/1%EC%9E%A5_%EA%B9%A8%EB%81%97%ED%95%9C%EC%BD%94%EB%93%9C_%EB%AC%B8%EC%A7%80%EC%9D%80.md)    |
 
 ### 2장. 의미있는 이름
 
 | 발표자 | 발표자료 |
 |------|--------|
-| xxx  | xxx    |
-| xxx  | xxx    |
+| 이주현  | [링크](https://github.com/YAPP-19th/Clean-Code-Study/blob/main/2%EC%9E%A5/2%EC%9E%A5_%EC%9D%98%EB%AF%B8%EC%9E%88%EB%8A%94%EC%9D%B4%EB%A6%84_%EC%9D%B4%EC%A3%BC%ED%98%84.md)    |
+| 한지희  | [링크](https://github.com/YAPP-19th/Clean-Code-Study/blob/main/2%EC%9E%A5/2%EC%9E%A5_%EC%9D%98%EB%AF%B8%EC%9E%88%EB%8A%94%EC%9D%B4%EB%A6%84_%ED%95%9C%EC%A7%80%ED%9D%AC.md)    |
 
 ### 3장. 함수
 
 | 발표자 | 발표자료 |
 |------|--------|
-| xxx  | xxx    |
-| xxx  | xxx    |
+| 정세희  | [링크](https://github.com/YAPP-19th/Clean-Code-Study/blob/main/3%EC%9E%A5/sehee-3.md)    |
 
 ### 4장. 주석
 
@@ -130,4 +129,3 @@
 |------|--------|
 | xxx  | xxx    |
 | xxx  | xxx    |
-
