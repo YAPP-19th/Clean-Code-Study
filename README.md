@@ -8,7 +8,7 @@
 
 ## 참가 인원
 - [이주현](https://github.com/JuHyun419)
-- [노지환]()
+- [노지환](https://github.com/Ji-Ha)
 - [문지은](https://github.com/s2moon98)
 - [한지희]()
 - [정세희]()
