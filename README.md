@@ -61,22 +61,21 @@
 
 | 발표자 | 발표자료 |
 |------|--------|
-| xxx  | xxx    |
-| xxx  | xxx    |
+| 노지환  | [링크](https://mountainous-grill-560.notion.site/7-900c0a25a1934e999991b29b01aac943)    |
+| 문지은  | [링크](https://github.com/YAPP-19th/Clean-Code-Study/blob/main/7%EC%9E%A5/7%EC%9E%A5_%EC%98%A4%EB%A5%98%EC%B2%98%EB%A6%AC_%EB%AC%B8%EC%A7%80%EC%9D%80.md)    |
 
 ### 8장. 경계
 
 | 발표자 | 발표자료 |
 |------|--------|
-| xxx  | xxx    |
-| xxx  | xxx    |
+| 이주현  | [링크](https://github.com/YAPP-19th/Clean-Code-Study/blob/main/8%EC%9E%A5/8%EC%9E%A5_%EA%B2%BD%EA%B3%84_%EC%9D%B4%EC%A3%BC%ED%98%84.md)    |
+| 정세희  | [링크](https://velog.io/@jshme/Clean-Code-3)    |
 
 ### 9장. 단위 테스트
 
 | 발표자 | 발표자료 |
 |------|--------|
-| xxx  | xxx    |
-| xxx  | xxx    |
+| 한지희  | [링크](https://plat2.notion.site/9-29297ad7b5f845a2a0ef2795b49aad54)    |
 
 ### 10장. 클래스
 
