@@ -10,8 +10,8 @@
 - [이주현](https://github.com/JuHyun419)
 - [노지환](https://github.com/Ji-Ha)
 - [문지은](https://github.com/s2moon98)
-- [한지희]()
-- [정세희]()
+- [한지희](https://github.com/jihee-dev)
+- [정세희](https://github.com/jsh-me)
 
 <br>
 
@@ -81,22 +81,21 @@
 
 | 발표자 | 발표자료 |
 |------|--------|
-| xxx  | xxx    |
-| xxx  | xxx    |
+| 노지환  | [링크](https://mountainous-grill-560.notion.site/99896f9f652040069479d7c7bc27dfbd)    |
+| 문지은  | [링크](https://github.com/YAPP-19th/Clean-Code-Study/blob/55f81925831da51bddd23babdf52e0553f86f686/10%EC%9E%A5/10%EC%9E%A5_%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%AC%B8%EC%A7%80%EC%9D%80.md)    |
 
 ### 11장. 시스템
 
 | 발표자 | 발표자료 |
 |------|--------|
-| xxx  | xxx    |
-| xxx  | xxx    |
+| 한지희  | [링크](https://plat2.notion.site/11-0609daf4333a4fb28a5c7ffc30a9a7f3)    |
+| 정세희  | [링크](https://github.com/YAPP-19th/Clean-Code-Study/blob/11e05ece4d591b78723aa13a6e35cafaaea32ae8/11%EC%9E%A5/sehee-11%EC%9E%A5.md)    |
 
 ### 12장. 창발성
 
 | 발표자 | 발표자료 |
 |------|--------|
-| xxx  | xxx    |
-| xxx  | xxx    |
+| 이주현  | [링크](https://github.com/YAPP-19th/Clean-Code-Study/blob/5487e596b20555d2b1296af420e1b7c5ebccf7bd/12%EC%9E%A5/12%EC%9E%A5_%EC%B0%BD%EB%B0%9C%EC%84%B1_%EC%9D%B4%EC%A3%BC%ED%98%84.md)   |
 
 ### 13장. 동시성
 
