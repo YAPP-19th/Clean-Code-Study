@@ -81,28 +81,28 @@
 
 | 발표자 | 발표자료 |
 |------|--------|
-| 노지환 | [링크](https://mountainous-grill-560.notion.site/99896f9f652040069479d7c7bc27dfbd)    |
-| 문지은 | [링크](https://github.com/YAPP-19th/Clean-Code-Study/blob/55f81925831da51bddd23babdf52e0553f86f686/10%EC%9E%A5/10%EC%9E%A5_%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%AC%B8%EC%A7%80%EC%9D%80.md)    |
+| 노지환 | [링크](https://mountainous-grill-560.notion.site/99896f9f652040069479d7c7bc27dfbd) |
+| 문지은 | [링크](https://github.com/YAPP-19th/Clean-Code-Study/blob/55f81925831da51bddd23babdf52e0553f86f686/10%EC%9E%A5/10%EC%9E%A5_%ED%81%B4%EB%9E%98%EC%8A%A4_%EB%AC%B8%EC%A7%80%EC%9D%80.md) |
 
 ### 11장. 시스템
 
 | 발표자 | 발표자료 |
 |------|--------|
-| 한지희 | [링크](https://plat2.notion.site/11-0609daf4333a4fb28a5c7ffc30a9a7f3)    |
-| 정세희 | [링크](https://github.com/YAPP-19th/Clean-Code-Study/blob/11e05ece4d591b78723aa13a6e35cafaaea32ae8/11%EC%9E%A5/sehee-11%EC%9E%A5.md)    |
+| 한지희 | [링크](https://plat2.notion.site/11-0609daf4333a4fb28a5c7ffc30a9a7f3) |
+| 정세희 | [링크](https://github.com/YAPP-19th/Clean-Code-Study/blob/11e05ece4d591b78723aa13a6e35cafaaea32ae8/11%EC%9E%A5/sehee-11%EC%9E%A5.md) |
 
 ### 12장. 창발성
 
 | 발표자 | 발표자료 |
 |------|--------|
-| 이주현 | [링크](https://github.com/YAPP-19th/Clean-Code-Study/blob/5487e596b20555d2b1296af420e1b7c5ebccf7bd/12%EC%9E%A5/12%EC%9E%A5_%EC%B0%BD%EB%B0%9C%EC%84%B1_%EC%9D%B4%EC%A3%BC%ED%98%84.md)   |
+| 이주현 | [링크](https://github.com/YAPP-19th/Clean-Code-Study/blob/5487e596b20555d2b1296af420e1b7c5ebccf7bd/12%EC%9E%A5/12%EC%9E%A5_%EC%B0%BD%EB%B0%9C%EC%84%B1_%EC%9D%B4%EC%A3%BC%ED%98%84.md)|
 
 ### 13장. 동시성
 
 | 발표자 | 발표자료 |
 |------|--------|
-| 정세희 | [링크](https://github.com/YAPP-19th/Clean-Code-Study/blob/main/13%EC%9E%A5/13%EC%9E%A5%20sehee.md)    |
-| 문지은 | [링크](https://github.com/YAPP-19th/Clean-Code-Study/blob/main/13%EC%9E%A5/13%EC%9E%A5_%EB%8F%99%EC%8B%9C%EC%84%B1_%EB%AC%B8%EC%A7%80%EC%9D%80.md)    |
+| 정세희 | [링크](https://github.com/YAPP-19th/Clean-Code-Study/blob/main/13%EC%9E%A5/13%EC%9E%A5%20sehee.md) |
+| 문지은 | [링크](https://github.com/YAPP-19th/Clean-Code-Study/blob/main/13%EC%9E%A5/13%EC%9E%A5_%EB%8F%99%EC%8B%9C%EC%84%B1_%EB%AC%B8%EC%A7%80%EC%9D%80.md) |
 
 ### ~14장. 점진적인 개선~
 
@@ -110,14 +110,14 @@
 
 | 발표자 | 발표자료 |
 |------|--------|
-| 한지희 | [링크](https://github.com/YAPP-19th/Clean-Code-Study/blob/main/15%EC%9E%A5/15%EC%9E%A5_JUnit%20%EB%93%A4%EC%97%AC%EB%8B%A4%EB%B3%B4%EA%B8%B0_%ED%95%9C%EC%A7%80%ED%9D%AC.md)    |
-| 노지환 | [링크](https://github.com/YAPP-19th/Clean-Code-Study/blob/main/15%EC%9E%A5/15%EC%9E%A5_JUnit%EB%93%A4%EC%97%AC%EB%8B%A4%EB%B3%B4%EA%B8%B0_%EB%85%B8%EC%A7%80%ED%99%98.md)    |
+| 한지희 | [링크](https://plat2.notion.site/15-JUnit-6969182b4b76440682c96b086a98b6ec) |
+| 노지환 | [링크](https://mountainous-grill-560.notion.site/JUnit-6c0be3d406fd422dbfc8fa2e9c02c987) |
 
 ### 16장. SerialDate 리팩터링
 
 | 발표자 | 발표자료 |
 |------|--------|
-| 이주현  | [링크](https://github.com/YAPP-19th/Clean-Code-Study/blob/main/16%EC%9E%A5/16%EC%9E%A5_SerialDate_%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81.md)    |
+| 이주현  | [링크](https://github.com/YAPP-19th/Clean-Code-Study/blob/main/16%EC%9E%A5/16%EC%9E%A5_SerialDate_%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81.md) |
 
 ### 17장. 냄새와 휴리스틱
 
