@@ -1,4 +1,5 @@
 # YAPP 19기 클린코드 스터디
+> (2019.09 ~ 2021.11)
 
 ## 참고 링크
 - [책 정보](http://www.yes24.com/Product/Goods/11681152)
@@ -120,8 +121,15 @@
 | 이주현  | [링크](https://github.com/YAPP-19th/Clean-Code-Study/blob/main/16%EC%9E%A5/16%EC%9E%A5_SerialDate_%EB%A6%AC%ED%8C%A9%ED%84%B0%EB%A7%81.md) |
 
 ### 17장. 냄새와 휴리스틱
+- 주석, 환경, 함수
+- 일반
+- 자바 + 이름
+- 테스트
 
 | 발표자 | 발표자료 |
 |------|--------|
-| xxx  | xxx    |
-| xxx  | xxx    |
+| 한지희 | [주석, 환경, 함수](https://plat2.notion.site/17-66705ce5c1ac4c848b6f35f3153a70e6) |
+| 이주현 | [일반](https://github.com/YAPP-19th/Clean-Code-Study/blob/main/17%EC%9E%A5/17%EC%9E%A5_%EB%83%84%EC%83%88%EC%99%80%20%ED%9C%B4%EB%A6%AC%EC%8A%A4%ED%8B%B1_%EC%9D%BC%EB%B0%98_%EC%9D%B4%EC%A3%BC%ED%98%84.md) |
+| 노지환 | [자바](https://mountainous-grill-560.notion.site/7be28aa898b242fda3722c7b2137b60f) |
+| 문지은 | [테스트](https://github.com/YAPP-19th/Clean-Code-Study/blob/main/17%EC%9E%A5/17%EC%9E%A5_%ED%85%8C%EC%8A%A4%ED%8A%B8_%EB%AC%B8%EC%A7%80%EC%9D%80.md) |
+
